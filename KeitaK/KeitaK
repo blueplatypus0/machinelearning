@@ -1,0 +1,4 @@
+notes""
+     "cd ~/tensorflow"
+     "source venv/bin/activate"
+     ls shows your the content of the directory
